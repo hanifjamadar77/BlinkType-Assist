@@ -29,7 +29,7 @@ This project is specially designed for individuals with **motor impairments or l
 
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/hanifjamadar77/BlinkType-Assist.git
 cd BlinkType-Assist
 
@@ -55,3 +55,7 @@ Installing `dlib` can be tricky on Windows. Follow these steps to ensure a smoot
 ```bash
 python -m venv venv
 venv\Scripts\activate
+```
+# Outputs:
+![image](https://github.com/user-attachments/assets/072910fb-5244-4a12-9429-a1da38e2cd69)
+
